@@ -37,3 +37,18 @@ Ploto
  that is necessary to solve the problem.
 
 ============================================================================================
+
+
+
+
+Problem 2:
+
+
+
+
+Integrate the system of point vortex equations on the plane, according to the
+hamilotonian Dynamics.
+
+Numerically integrate the point vortex equations using the two-stage symplectic
+Runge Kutta method and the four-stage explicit Runge Kutta method.
+
