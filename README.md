@@ -1,4 +1,4 @@
-                               # Geometrical Numerical Integration
+#                             Geometrical Numerical Integration
  *******************************************************************************************
 
 Problem 1:
