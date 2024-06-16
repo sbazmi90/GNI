@@ -81,4 +81,18 @@ Runge Kutta method and the four-stage explicit Runge Kutta method.
 $\bullet$ The point vortex equations can be used as a simpli ed model for the stability of the
 polar vortex.
 
+ #### Analyze stability:
 
+ ##### Less accurate: Euler method:
+
+![Alt text](Problem_2/Sym-Euler/H-Sym-Euler.png)
+
+![Alt text](Problem_2/Sym-Euler/vortex.png)
+
+
+ ##### More accurate: Runge-Kutta method:
+
+![Alt text](Problem_2/Runge-Kutta/H-RK4.png)
+
+
+![Alt text](Problem_2/Runge-Kutta/vortex.png)
