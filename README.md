@@ -14,20 +14,24 @@ $\bullet$ Repeat the above experiment using the forward Euler, backward Euler an
 
 $\bullet$ Plot the time series of the absolute error of the total energy for all the above methods.
 
-
+### Method:
 Write the Hamiltonian for planets and sun in the solar system and, compute all the orbits. Also, The energy and
 momentum of each planet should be calculated. The problem is solved with different numeric methods to compare
 their accuracy. These methods are:
 
 
-Forward Euler
-Backward Euler
-Symplectic Euler
-Heun
-Stormer-Verlet
+$\bullet$ Forward Euler
+
+$\bullet$ Backward Euler
+
+$\bullet$ Symplectic Euler
+
+$\bullet$ Heun
+
+$\bullet$ Stormer-Verlet
 
 
-There is a data set for this problem. It has some information.
+Outputs will be stored in a file including positions and momentums.
 
 
          xi    yi    zi    pxi   pyi   pzi
@@ -41,8 +45,8 @@ Saturn
 Uranus    
 Nepton    
 Ploto    
- " i " is initial. This dataset shows the initial positions and momentums
- that is necessary to solve the problem.
+
+ " i " is initial state which is necessary to start solving the equations.
 
 ============================================================================================
 
