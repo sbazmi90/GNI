@@ -1,4 +1,4 @@
-There are two problems that should be solved with geometrical numerical integration method.
+                               Geometrical Numerical Integration
  *******************************************************************************************
 
 Problem 1:
