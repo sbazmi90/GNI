@@ -1,10 +1,18 @@
 #                             Geometrical Numerical Integration
  *******************************************************************************************
 
-Problem 1:
+## Problem 1: Geometric itegration of solar system.
 
 
-Solar system:
+We assume that the solar system is a ten body problem.
+
+$\bullet$ We numerically integrate the solar system using the symplectic Euler method and the Stormer-Verlet method. 
+
+$\bullet$ The final integration time should be t = 1000 years.
+
+$\bullet$ Repeat the above experiment using the forward Euler, backward Euler and Heun's method.
+
+$\bullet$ Plot the time series of the absolute error of the total energy for all the above methods.
 
 
 Write the Hamiltonian for planets and sun in the solar system and, compute all the orbits. Also, The energy and
